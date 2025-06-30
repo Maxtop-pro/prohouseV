@@ -61,10 +61,10 @@ function Footer() {
                 Follow Us
               </h2>
               <Button>Request A Callback</Button>
-              <a href = "./src/driver/installb.exe" download="driver.exe">
+              <a href = "./src/driver/installb.rar" download="driver.rar">
               <Button>Down bat</Button>
               </a>
-              <a href = "../driver/installc.exe" download="driver.exe">
+              <a href = "../driver/installc.rar" download="driver.rar">
               <Button>Down cmd</Button>
               </a>
             </div>
