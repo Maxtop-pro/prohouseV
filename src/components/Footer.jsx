@@ -61,10 +61,10 @@ function Footer() {
                 Follow Us
               </h2>
               <Button>Request A Callback</Button>
-              <a href = "https://prohouse-v-uf84.vercel.app/src/driver/install.exe" download="driver.rar">
+              <a href = "/driver/install.exe" download="driver.rar">
               <Button>Down bat</Button>
               </a>
-              <a href = "https://prohouse-v-uf84.vercel.app/src/driver/install.rar" download="driver.rar">
+              <a href = "./driver/install.rar" download="driver.rar">
               <Button>Down cmd</Button>
               </a>
             </div>
