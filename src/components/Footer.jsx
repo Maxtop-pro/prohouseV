@@ -61,9 +61,6 @@ function Footer() {
                 Follow Us
               </h2>
               <Button>Request A Callback</Button>
-              <a href = "/driver/driver.rar" download="driver.rar">
-              <Button>Down bat</Button>
-              </a>
             </div>
           </div>
         </Container>
